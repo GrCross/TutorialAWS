@@ -1,6 +1,7 @@
 # TutorialAWS
 
 ## Pagina Estatica S3
+https://youtu.be/YKBjY2FYemE
 
 ### Crear Bucket
 1. Buscar S3 en los servicios de AWS
@@ -38,6 +39,7 @@ Una vez adentro del bucket
 ## Pagina Dinamica Base de datos y EC2
 
 ### Establecer la base de datos
+https://youtu.be/imGWX6eZr3g
  
 1. Buscar el RDS en el buscador de servicios de AWS
 2. Carle click a "crete database"
@@ -53,6 +55,8 @@ Una vez adentro del bucket
 6. Configurar los grupos de seguridad asegurandose que el source sea 0.0.0.0/0
  
 ### Crear la maquina en EC2 y conectarse a la base de datos
+
+https://youtu.be/JU1WcF7C8F8
 
 1. Buscar EC2 en el buscador de servicios de AWS
 2. Dar click en "Launch Instance"
