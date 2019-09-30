@@ -56,7 +56,7 @@ https://youtu.be/imGWX6eZr3g
  
 ### Crear la maquina en EC2 y conectarse a la base de datos
 
-https://youtu.be/JU1WcF7C8F8
+https://youtu.be/F7Zs2cRCI_Q
 
 1. Buscar EC2 en el buscador de servicios de AWS
 2. Dar click en "Launch Instance"
